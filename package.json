@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabitodev/portfolio/issues"
   },
-  "homepage": "https://github.com/gabitodev/portfolio#readme"
+  "homepage": "https://github.com/gabitodev/portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
 }
