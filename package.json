@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio to showcase my skills and personal projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabitodev/portfolio.git"
+  },
+  "author": "Gabriel Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabitodev/portfolio/issues"
+  },
+  "homepage": "https://github.com/gabitodev/portfolio#readme"
+}
