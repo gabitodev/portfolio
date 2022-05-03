@@ -4,7 +4,7 @@
   "description": "Portfolio to showcase my skills and personal projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tailwind-build": "npx tailwindcss -i ./src/input.css -o ./index.css --watch"
   },
   "repository": {
     "type": "git",
