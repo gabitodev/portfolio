@@ -1,5 +1,6 @@
 const skillsSection = document.querySelector('#skills');
 const projectsSection = document.querySelector('#projects');
+const workSection = document.querySelector('#work');
 const firstTitleLetters = document.querySelectorAll('#first-title span');
 const secondTitleLetters = document.querySelectorAll('#second-title span');
 
@@ -21,3 +22,4 @@ const observer = new IntersectionObserver(entries => {
 
 observer.observe(skillsSection);
 observer.observe(projectsSection);
+observer.observe(workSection);
